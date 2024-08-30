@@ -1,0 +1,24 @@
+/* Primary */
+@font-face {
+  font-family: 'Inter-Regular';
+  src: local('Inter-Regular'),
+    url('static/fonts/primary/Inter-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Inter-SemiBold';
+  src: local('Inter-SemiBold'),
+    url('static/fonts/primary/Inter-SemiBold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Inter-Bold';
+  src: local('Inter-Bold'),
+    url('static/fonts/primary/Inter-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}

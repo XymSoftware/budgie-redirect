@@ -1,1 +1,1 @@
-# budgie-redirect
+This project exists to forward traffic to the new Xym app.
